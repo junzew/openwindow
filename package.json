@@ -1,0 +1,17 @@
+{
+  "name": "openwindow",
+  "version": "1.0.0",
+  "description": "open window reminder",
+  "main": "openwindow.js",
+  "dependencies": {
+    "cron": "^1.2.1",
+    "nodemailer": "^4.0.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "junzew",
+  "license": "ISC"
+}
